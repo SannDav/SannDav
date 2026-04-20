@@ -61,7 +61,7 @@ Nubuat ini terbukti pada **29 Mei 1453** — ketika **Sultan Muhammad Al-Fatih**
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SannDav&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
 
 ---
 
