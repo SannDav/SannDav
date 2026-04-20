@@ -40,7 +40,7 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SannDav&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
 
 ---
 
