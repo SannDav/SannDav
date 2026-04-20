@@ -31,16 +31,37 @@
 
 ---
 
-### 💬 Satu hal tentang saya
+### 📜 Pecinta Sejarah
 
-> *"Setiap expert pernah jadi beginner.  
-> Gue lagi di tahap yang paling seru."*
+> *"Sejarah bukan sekadar masa lalu — ia adalah cermin peradaban."*
+
+Di balik layar coding, saya sangat tertarik dengan sejarah tiga imperium besar yang pernah mengguncang dunia:
+
+| Imperium | Masa Kejayaan | Warisan |
+|---|---|---|
+| 🦅 **Romawi** | 27 SM – 476 M | Hukum, arsitektur, bahasa Latin |
+| ⚔️ **Persia (Achaemenid)** | 550 – 330 SM | Administrasi, toleransi, Jalur Sutra |
+| 🌙 **Ottoman** | 1299 – 1922 M | Penaklukan Konstantinopel 1453, Hagia Sophia |
+
+---
+
+### 🕌 Sabda Rasulullah ﷺ
+
+> *لَتُفْتَحَنَّ الْقُسْطَنْطِينِيَّةُ، وَلَنِعْمَ الْأَمِيرُ أَمِيرُهَا، وَلَنِعْمَ الْجَيْشُ ذَلِكَ الْجَيْشُ*
+
+> **"Konstantinopel pasti akan ditaklukkan.**  
+> **Sebaik-baik pemimpin adalah pemimpin yang menaklukkannya,**  
+> **dan sebaik-baik pasukan adalah pasukan tersebut."**
+>
+> — *(HR. Ahmad bin Hanbal, Al-Musnad 4/335)*
+
+Nubuat ini terbukti pada **29 Mei 1453** — ketika **Sultan Muhammad Al-Fatih** yang baru berusia **21 tahun** memimpin pasukannya menaklukkan Konstantinopel, menggenapi janji Rasulullah ﷺ setelah 800 tahun dinantikan. ⚔️🌙
 
 ---
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SannDav&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
 
 ---
 
